@@ -7,6 +7,8 @@
     "bedroom2_temp": 21.4,
     "kitchen_temp": 21.4,
     "outside_temp_forecast": 19.0,
+    "outside_temp_forecast1hr": 19.0,
+    "outside_temp_forecast3hr": 19.0,
     "erv_outside_temp": 19.0,
     "erv_inside_temp": 19.0,
     "ecobee_temp": 22.0,
