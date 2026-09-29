@@ -1,0 +1,37 @@
+{
+    "bedroom1_co2": 1000,
+    "bedroom2_co2": 1000,
+    "kitchen_co2": 1000,
+
+    "bedroom1_temp": 21.4,
+    "bedroom2_temp": 21.4,
+    "kitchen_temp": 21.4,
+    "outside_temp_forecast": 19.0,
+    "erv_outside_temp": 19.0,
+    "erv_inside_temp": 19.0,
+    "ecobee_temp": 22.0,
+
+    "ecobee setpoint": 22.0,
+
+    "bedroom1_PM2.5": 1,
+    "bedroom2_PM2.5": 1,
+    "kitchen_PM2.5": 1,
+
+    "bedroom1_RH": 43,
+    "bedroom2_RH": 43,
+    "kitchen_RH": 43,
+    "outside_RH_forecast": 43,
+    "erv_inside_RH": 43,
+    "erv_outside_RH": 43,
+
+    "bedroom1_occupancy": true,
+    "bedroom2_occupancy": true,
+    "kitchen_occupancy": true,
+
+    "erv_power": 100,
+
+    "heating": false,
+    "cooling": true,
+    "heating_mode": false,
+    "cooling_mode": true
+}

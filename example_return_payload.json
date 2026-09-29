@@ -1,0 +1,6 @@
+{
+    "commanded_intake_flow": 60,
+    "commanded_outake_flow": 60,
+    "recirc": false,
+    "airhandler_command": true
+}
