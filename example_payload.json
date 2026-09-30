@@ -29,11 +29,14 @@
     "bedroom1_occupancy": true,
     "bedroom2_occupancy": true,
     "kitchen_occupancy": true,
+    "tv_state": true,
 
     "erv_power": 100,
 
     "heating": false,
     "cooling": true,
     "heating_mode": false,
-    "cooling_mode": true
+    "cooling_mode": true,
+    "bedroom1_window": false,
+    "bedroom2_window": false
 }
