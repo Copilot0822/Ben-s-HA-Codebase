@@ -1,0 +1,8 @@
+DEVELOPMENT credentials
+QR payload: MT:Y.K9042C00KA0648G00
+Manual pairing code: 34970112332
+Setup passcode: 20202021
+Discriminator: 3840
+VID: 0xFFF1
+PID: 0x8000
+Discovery: BLE (2)
